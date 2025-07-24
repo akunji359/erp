@@ -29,7 +29,7 @@ import LogAktivitasPengguna from './pages/Administrator/BI/AlatAdmin/LogAktivita
 
 // Setup Pages
 import MataUangKurs from './pages/Setup/Keuangan/MataUangKurs';
-import MasterBlok from './pages/Setup/Kebun/MasterBlok.tsx';
+import MasterBlok from './pages/Setup/Kebun/MasterBlok';
 import KelompokKegiatan from './pages/Setup/Kebun/KelompokKegiatan';
 import Kegiatan from './pages/Setup/Kebun/Kegiatan';
 import JenisBibit from './pages/Setup/Kebun/JenisBibit';
